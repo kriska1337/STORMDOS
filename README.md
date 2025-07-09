@@ -1,4 +1,4 @@
-# 🌩️ Storm DoS
+# 🌩️ Storm DoS (Basic DDoS Panel)
 
 ☠️ **Made by MoonRise Network**
 
@@ -13,7 +13,7 @@
 
 2. Update the server configurations in `servers.json` with your own servers.
 
-3. Upload the attack methods to your servers from the `tools` folder.
+3. Upload the attack methods to your servers from the `tools/methods` folder.
 
 ---
 
@@ -28,6 +28,9 @@ python panel.py
 
 ## 📷 Screenshots
 
+# Power 
 - ![Power Panel](power.jpg)
+# Methods
 - ![Methods Overview](methods.jpg)
+#Main
 - ![Main Interface](main.jpg)
