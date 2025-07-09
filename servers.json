@@ -1,0 +1,10 @@
+{
+    "servers": [
+        {
+            "host": "34.122.130.109",
+            "port": 22,
+            "username": "root",
+            "password": "Eralp13092012"
+        }
+    ]
+}

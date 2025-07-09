@@ -1,0 +1,6 @@
+{
+    "theme": "nova",
+    "threads": 50,
+    "timeout": 10,
+    "retry_attempts": 1
+}
